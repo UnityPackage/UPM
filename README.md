@@ -6,6 +6,7 @@
 
 原仓库地址: [https://github.com/aliessmael/Unity-Logs-Viewer](https://github.com/aliessmael/Unity-Logs-Viewer)
 
+open Packages/manifest.json
 ```
 {
   "dependencies": {
@@ -20,8 +21,7 @@
 
 Unity剪切板功能
 
-原仓库地址: [https://github.com/aliessmael/Unity-Logs-Viewer](https://github.com/aliessmael/Unity-Logs-Viewer)
-
+open Packages/manifest.json
 ```
 {
   "dependencies": {
