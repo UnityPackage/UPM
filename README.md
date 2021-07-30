@@ -16,6 +16,20 @@
 ```
 
 
+### [com.unitypackage.uni-paste-board](https://github.com/UnityPackage/uni-paste-board) <a href="https://github.com/UnityPackage/uni-paste-board"><img src="https://img.shields.io/github/v/tag/UnityPackage/uni-paste-board?style=plastic" title="Tag" /></a>
+
+Unity剪切板功能
+
+原仓库地址: [https://github.com/aliessmael/Unity-Logs-Viewer](https://github.com/aliessmael/Unity-Logs-Viewer)
+
+```
+{
+  "dependencies": {
+    "com.unitypackage.uni-paste-board":"https://github.com/UnityPackage/uni-paste-board.git",
+    ...
+  },
+}
+```
 
 
 
