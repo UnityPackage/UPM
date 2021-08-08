@@ -32,6 +32,20 @@ open Packages/manifest.json
 ```
 
 
+### [com.unitypackage.vibration](https://github.com/UnityPackage/vibration) <a href="https://github.com/UnityPackage/vibration"><img src="https://img.shields.io/github/v/tag/UnityPackage/vibration?style=plastic" title="Tag" /></a>
+
+Unity震动
+
+open Packages/manifest.json
+```
+{
+  "dependencies": {
+    "com.unitypackage.vibration":"https://github.com/UnityPackage/vibration.git#1.0.0",
+    ...
+  },
+}
+```
+
 
 ---
 华丽的分界线
