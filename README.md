@@ -71,31 +71,34 @@ UnityWebRequest  网络请求工作流
 ```
 {
   "dependencies": {
-    "com.tuohuang.globalanythinkhuawei":"https://git.onf.cc/ToponSDK/GlobalAnyThinkHuawei.git#5.7.57",
-    "com.tuohuang.globalanythinkkidoz":"https://git.onf.cc/ToponSDK/GlobalAnyThinkKidoz.git#5.7.57",
-    "com.tuohuang.globalanythinkmintegral":"https://git.onf.cc/ToponSDK/GlobalAnyThinkMintegral.git#5.7.57",
-    "com.tuohuang.globalanythinknend":"https://git.onf.cc/ToponSDK/GlobalAnyThinkNend.git#5.7.57",
-    "com.tuohuang.globalanythinkmopub":"https://git.onf.cc/ToponSDK/GlobalAnyThinkMopub.git#5.7.57",
-    "com.tuohuang.globalanythinkvungle":"https://git.onf.cc/ToponSDK/GlobalAnyThinkVungle.git#5.7.57",
-    "com.tuohuang.globalanythinkgdt":"https://git.onf.cc/ToponSDK/GlobalAnyThinkGDT.git#5.7.57",
-    "com.tuohuang.globalanythinkstartapp":"https://git.onf.cc/ToponSDK/GlobalAnyThinkStartApp.git#5.7.57",
-    "com.tuohuang.globalanythinkcore":"https://git.onf.cc/ToponSDK/GlobalAnyThinkCore.git#5.7.57",
-    "com.tuohuang.globalanythinkadmob":"https://git.onf.cc/ToponSDK/GlobalAnyThinkAdmob.git#5.7.57",
-    "com.tuohuang.globalanythinkadcolony":"https://git.onf.cc/ToponSDK/GlobalAnyThinkAdColony.git#5.7.57",
-    "com.tuohuang.globalanythinkapplovin":"https://git.onf.cc/ToponSDK/GlobalAnyThinkApplovin.git#5.7.57",
-    "com.tuohuang.globalanythinkappnext":"https://git.onf.cc/ToponSDK/GlobalAnyThinkAppNext.git#5.7.57",
-    "com.tuohuang.globalanythinkbaidu":"https://git.onf.cc/ToponSDK/GlobalAnyThinkBaidu.git#5.7.57",
-    "com.tuohuang.globalanythinkchartboost":"https://git.onf.cc/ToponSDK/GlobalAnyThinkChartboost.git#5.7.57",
-    "com.tuohuang.globalanythinkfyber":"https://git.onf.cc/ToponSDK/GlobalAnyThinkFyber.git#5.7.57",
-    "com.tuohuang.globalanythinkinmobi":"https://git.onf.cc/ToponSDK/GlobalAnyThinkInmobi.git#5.7.57",
-    "com.tuohuang.globalanythinkironsource":"https://git.onf.cc/ToponSDK/GlobalAnyThinkIronsource.git#5.7.57",
-    "com.tuohuang.globalanythinkkuaishou":"https://git.onf.cc/ToponSDK/GlobalAnyThinkKuaiShou.git#5.7.57",
-    "com.tuohuang.globalanythinkmaio":"https://git.onf.cc/ToponSDK/GlobalAnyThinkMaio.git#5.7.57",
-    "com.tuohuang.globalanythinkmytarget":"https://git.onf.cc/ToponSDK/GlobalAnyThinkMyTarget.git#5.7.57",
-    "com.tuohuang.globalanythinkogury":"https://git.onf.cc/ToponSDK/GlobalAnyThinkOgury.git#5.7.57",
-    "com.tuohuang.globalanythinkpangle":"https://git.onf.cc/ToponSDK/GlobalAnyThinkPangle.git#5.7.57",
-    "com.tuohuang.globalanythinktapjoy":"https://git.onf.cc/ToponSDK/GlobalAnyThinkTapjoy.git#5.7.57",
-    "com.tuohuang.globalanythinkunityads":"https://git.onf.cc/ToponSDK/GlobalAnyThinkUnityAds.git#5.7.57",
+    "com.globalanythinkads.globalanythinkcore":"https://git.onf.cc/ToponSDK/GlobalAnyThinkCore.git#5.7.65",
+    "com.globalanythinkads.globalanythinkadcolony":"https://git.onf.cc/ToponSDK/GlobalAnyThinkAdColony.git#5.7.65"
+    "com.globalanythinkads.globalanythinkadmob":"https://git.onf.cc/ToponSDK/GlobalAnyThinkAdmob.git#5.7.65"
+    "com.globalanythinkads.globalanythinkappnext":"https://git.onf.cc/ToponSDK/GlobalAnyThinkAppNext.git#5.7.65"
+    "com.globalanythinkads.globalanythinkapplovin":"https://git.onf.cc/ToponSDK/GlobalAnyThinkApplovin.git#5.7.65"
+    "com.globalanythinkads.globalanythinkbaidu":"https://git.onf.cc/ToponSDK/GlobalAnyThinkBaidu.git#5.7.65"
+    "com.globalanythinkads.globalanythinkchartboost":"https://git.onf.cc/ToponSDK/GlobalAnyThinkChartboost.git#5.7.65"
+    "com.globalanythinkads.globalanythinkfacebook":"https://git.onf.cc/ToponSDK/GlobalAnyThinkFacebook.git#5.7.65"
+    "com.globalanythinkads.globalanythinkfyber":"https://git.onf.cc/ToponSDK/GlobalAnyThinkFyber.git#5.7.65"
+    "com.globalanythinkads.globalanythinkgdt":"https://git.onf.cc/ToponSDK/GlobalAnyThinkGDT.git#5.7.65"
+    "com.globalanythinkads.globalanythinkhuawei":"https://git.onf.cc/ToponSDK/GlobalAnyThinkHuawei.git#5.7.65"
+    "com.globalanythinkads.globalanythinkinmobi":"https://git.onf.cc/ToponSDK/GlobalAnyThinkInmobi.git#5.7.65"
+    "com.globalanythinkads.globalanythinkironsource":"https://git.onf.cc/ToponSDK/GlobalAnyThinkIronsource.git#5.7.65"
+    "com.globalanythinkads.globalanythinkkidoz":"https://git.onf.cc/ToponSDK/GlobalAnyThinkKidoz.git#5.7.65"
+    "com.globalanythinkads.globalanythinkkuaishou":"https://git.onf.cc/ToponSDK/GlobalAnyThinkKuaiShou.git#5.7.65"
+    "com.globalanythinkads.globalanythinkmaio":"https://git.onf.cc/ToponSDK/GlobalAnyThinkMaio.git#5.7.65"
+    "com.globalanythinkads.globalanythinkmintegral":"https://git.onf.cc/ToponSDK/GlobalAnyThinkMintegral.git#5.7.65"
+    "com.globalanythinkads.globalanythinkmopub":"https://git.onf.cc/ToponSDK/GlobalAnyThinkMopub.git#5.7.65"
+    "com.globalanythinkads.globalanythinkmytarget":"https://git.onf.cc/ToponSDK/GlobalAnyThinkMyTarget.git#5.7.65"
+    "com.globalanythinkads.globalanythinknend":"https://git.onf.cc/ToponSDK/GlobalAnyThinkNend.git#5.7.65"
+    "com.globalanythinkads.globalanythinkogury":"https://git.onf.cc/ToponSDK/GlobalAnyThinkOgury.git#5.7.65"
+    "com.globalanythinkads.globalanythinkpangle":"https://git.onf.cc/ToponSDK/GlobalAnyThinkPangle.git#5.7.65"
+    "com.globalanythinkads.globalanythinksigmob":"https://git.onf.cc/ToponSDK/GlobalAnyThinkSigmob.git#5.7.65"
+    "com.globalanythinkads.globalanythinkstartapp":"https://git.onf.cc/ToponSDK/GlobalAnyThinkStartApp.git#5.7.65"
+    "com.globalanythinkads.globalanythinktapjoy":"https://git.onf.cc/ToponSDK/GlobalAnyThinkTapjoy.git#5.7.65"
+    "com.globalanythinkads.globalanythinkunityads":"https://git.onf.cc/ToponSDK/GlobalAnyThinkUnityAds.git#5.7.65"
+    "com.globalanythinkads.globalanythinkvungle":"https://git.onf.cc/ToponSDK/GlobalAnyThinkVungle.git#5.7.65",
+
     
     
     "com.tuohuang.globalanythinkcore":"ssh://git@git.onf.cc:10022/ToponSDK/GlobalAnyThinkCore.git#5.7.57",
