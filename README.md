@@ -66,6 +66,21 @@ UnityWebRequest  网络请求工作流
 }
 ```
 
+
+
+### [com.sdk.firebases]
+
+```
+{
+  "dependencies": {
+    "com.sdk.firebases":"https://git.onf.cc/FirebaseSDK/FirebaseSDKs.git#8.1.0"
+    ...
+  },
+}
+```
+
+
+
 ### [Global ToponSDK](https://git.onf.cc/ToponSDK/)
 
 ```
@@ -98,7 +113,6 @@ UnityWebRequest  网络请求工作流
     "com.toponsdk.globalanythinkunityads":"https://git.onf.cc/ToponSDK/GlobalAnyThinkUnityAds.git#5.7.652",
     "com.toponsdk.globalanythinkappnext":"https://git.onf.cc/ToponSDK/GlobalAnyThinkAppNext.git#5.7.652",
     "com.toponsdk.globalanythinkvungle":"https://git.onf.cc/ToponSDK/GlobalAnyThinkVungle.git#5.7.652"
-
     
     
     "com.tuohuang.globalanythinkcore":"ssh://git@git.onf.cc:10022/ToponSDK/GlobalAnyThinkCore.git#5.7.57",
