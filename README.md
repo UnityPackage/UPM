@@ -63,6 +63,14 @@ open Packages/manifest.json
 }
 ```
 
+### [com.unity.nuget.newtonsoft-json](https://docs.unity3d.com/Packages/com.unity.nuget.newtonsoft-json@3.0/manual/index.html) <a href="https://docs.unity3d.com/Packages/com.unity.nuget.newtonsoft-json@3.0/manual/index.html"></a>
+
+newtonsoftJson
+
+open PackagesManager
+add name
+'''com.unity.nuget.newtonsoft-json'''
+
 
 ---
 华丽的分界线
